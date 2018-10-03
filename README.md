@@ -8,3 +8,4 @@ The following are some of the best algorithms that are best of their types. Plea
 3. Bogo sort
 4. Flloyd warshall
 5. Binary search
+6. Count sort

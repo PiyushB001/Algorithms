@@ -9,3 +9,5 @@ The following are some of the best algorithms that are best of their types. Plea
 4. Flloyd warshall
 5. Binary search
 6. Count sort
+7. DDA line drawing algorithm
+8. kadane's algorithm

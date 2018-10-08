@@ -12,3 +12,5 @@ The following are some of the best algorithms that are best of their types. Plea
 7. DDA line drawing algorithm
 8. kadane's algorithm
 9. Pollard's Rho Algorithm
+10. Z's algorithm
+Euclidean Algorithm

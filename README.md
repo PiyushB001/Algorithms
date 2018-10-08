@@ -13,4 +13,5 @@ The following are some of the best algorithms that are best of their types. Plea
 8. kadane's algorithm
 9. Pollard's Rho Algorithm
 10. Z's algorithm
-Euclidean Algorithm
+11. Euclidean Algorithm
+12. counting sort

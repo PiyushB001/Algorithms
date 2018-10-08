@@ -11,3 +11,4 @@ The following are some of the best algorithms that are best of their types. Plea
 6. Count sort
 7. DDA line drawing algorithm
 8. kadane's algorithm
+9. Pollard's Rho Algorithm

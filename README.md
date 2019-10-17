@@ -15,3 +15,5 @@ The following are some of the best algorithms that are best of their types. Plea
 10. Z's algorithm
 11. Euclidean Algorithm
 12. counting sort
+13. Merge Sort 
+14. Insertion sort
